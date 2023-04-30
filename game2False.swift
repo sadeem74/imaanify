@@ -1,9 +1,3 @@
-//
-//  game2False.swift
-//  emanfy1
-//
-//  Created by Felwah on 24/08/1444 AH.
-//
 
 import SwiftUI
 
