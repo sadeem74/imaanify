@@ -1,9 +1,4 @@
-//
-//  MainView.swift
-//  emanfy1
-//
-//  Created by Felwah on 27/08/1444 AH.
-//
+
 
 import SwiftUI
 
