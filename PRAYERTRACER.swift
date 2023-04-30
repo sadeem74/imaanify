@@ -1,9 +1,3 @@
-//
-//  PRAYERTRACER.swift
-//  emanfy1
-//
-//  Created by Felwah on 28/08/1444 AH.
-//
 
 import SwiftUI
 
