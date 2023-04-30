@@ -1,9 +1,4 @@
-//
-//  Quran.swift
-//  Nora
-//
-//  Created by Noura on 24/08/1444 AH.
-//
+
 import AVKit
 import SwiftUI
 import AVFoundation
